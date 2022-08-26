@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murugansparkout&label=Profile%20views&color=0e75b6&style=flat" alt="murugansparkout" /> </p>
 
-- 🔭 I’m currently working in **Sparkout**
+- 🔭 I’m currently working in **Sparkout tech solutuons pvt ltd**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 Sr. Software Engineer | PHP (Laravel, Codeigniter) | Python (Django, Flask, Scrapy) | Vuejs
 
 - 📫 How to reach me **murugan@sparkouttech.com**
 
